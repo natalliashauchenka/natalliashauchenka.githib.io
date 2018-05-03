@@ -1,7 +1,23 @@
 h1 {
-  color: darkolivegreen;
+  font-size: 48px;
+  color: purple;
+}
+
+h2 {
+  font-size: 36px;
+  color: purple;
 }
 
 .summary-text {
-  color: peachpuff;
+  font-size: 24px;
+  color: purple;
+}
+
+.contact {
+  border-color: darkgray;
+  border-width: 2px;
+  border-style: solid;
+  background-color: lightgray;
+  margin: 20px;
+  padding: 20px;
 }
